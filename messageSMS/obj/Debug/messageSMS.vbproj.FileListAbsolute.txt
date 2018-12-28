@@ -1,0 +1,34 @@
+c:\users\kmdim\onedrive\documents\visual studio 2015\Projects\messageSMS\messageSMS\bin\Debug\messageSMS.exe.config
+C:\Users\kmdim\onedrive\documents\visual studio 2015\Projects\messageSMS\messageSMS\bin\Debug\messageSMS.exe
+C:\Users\kmdim\onedrive\documents\visual studio 2015\Projects\messageSMS\messageSMS\bin\Debug\messageSMS.pdb
+C:\Users\kmdim\onedrive\documents\visual studio 2015\Projects\messageSMS\messageSMS\bin\Debug\messageSMS.xml
+C:\Users\kmdim\onedrive\documents\visual studio 2015\Projects\messageSMS\messageSMS\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\kmdim\onedrive\documents\visual studio 2015\Projects\messageSMS\messageSMS\obj\Debug\messageSMS.vbprojResolveAssemblyReference.cache
+C:\Users\kmdim\onedrive\documents\visual studio 2015\Projects\messageSMS\messageSMS\obj\Debug\messageSMS.Form1.resources
+C:\Users\kmdim\onedrive\documents\visual studio 2015\Projects\messageSMS\messageSMS\obj\Debug\messageSMS.Resources.resources
+C:\Users\kmdim\onedrive\documents\visual studio 2015\Projects\messageSMS\messageSMS\obj\Debug\messageSMS.vbproj.GenerateResource.Cache
+C:\Users\kmdim\onedrive\documents\visual studio 2015\Projects\messageSMS\messageSMS\obj\Debug\messageSMS.exe
+C:\Users\kmdim\onedrive\documents\visual studio 2015\Projects\messageSMS\messageSMS\obj\Debug\messageSMS.xml
+C:\Users\kmdim\onedrive\documents\visual studio 2015\Projects\messageSMS\messageSMS\obj\Debug\messageSMS.pdb
+C:\Users\kmdim\onedrive\documents\visual studio 2015\Projects\messageSMS\messageSMS\bin\Debug\MetroFramework.Design.dll
+C:\Users\kmdim\onedrive\documents\visual studio 2015\Projects\messageSMS\messageSMS\bin\Debug\MetroFramework.dll
+C:\Users\kmdim\onedrive\documents\visual studio 2015\Projects\messageSMS\messageSMS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\kmdim\onedrive\documents\visual studio 2015\Projects\messageSMS\messageSMS\obj\Debug\messageSMS.registerFRM.resources
+C:\Users\kmdim\onedrive\documents\visual studio 2015\Projects\messageSMS\messageSMS\obj\Debug\messageSMS.listFRM.resources
+C:\Users\kmdim\onedrive\documents\visual studio 2015\Projects\messageSMS\messageSMS\obj\Debug\messageSMS.home.resources
+C:\Users\kmdim\onedrive\documents\visual studio 2015\Projects\messageSMS\messageSMS\obj\Debug\messageSMS.RESULTFRM.resources
+C:\Users\kmdim\Desktop\messageSMS\messageSMS\bin\Debug\messageSMS.exe.config
+C:\Users\kmdim\Desktop\messageSMS\messageSMS\obj\Debug\messageSMS.exe
+C:\Users\kmdim\Desktop\messageSMS\messageSMS\obj\Debug\messageSMS.xml
+C:\Users\kmdim\Desktop\messageSMS\messageSMS\obj\Debug\messageSMS.pdb
+C:\Users\kmdim\Desktop\messageSMS\messageSMS\bin\Debug\messageSMS.exe
+C:\Users\kmdim\Desktop\messageSMS\messageSMS\bin\Debug\messageSMS.pdb
+C:\Users\kmdim\Desktop\messageSMS\messageSMS\bin\Debug\messageSMS.xml
+C:\Users\kmdim\Desktop\messageSMS\messageSMS\obj\Debug\messageSMS.vbprojResolveAssemblyReference.cache
+C:\Users\kmdim\Desktop\messageSMS\messageSMS\obj\Debug\messageSMS.Form1.resources
+C:\Users\kmdim\Desktop\messageSMS\messageSMS\obj\Debug\messageSMS.home.resources
+C:\Users\kmdim\Desktop\messageSMS\messageSMS\obj\Debug\messageSMS.registerFRM.resources
+C:\Users\kmdim\Desktop\messageSMS\messageSMS\obj\Debug\messageSMS.listFRM.resources
+C:\Users\kmdim\Desktop\messageSMS\messageSMS\obj\Debug\messageSMS.Resources.resources
+C:\Users\kmdim\Desktop\messageSMS\messageSMS\obj\Debug\messageSMS.RESULTFRM.resources
+C:\Users\kmdim\Desktop\messageSMS\messageSMS\obj\Debug\messageSMS.vbproj.GenerateResource.Cache
